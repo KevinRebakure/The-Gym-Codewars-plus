@@ -1,6 +1,8 @@
 package main
 
 import "strings"
+import "regexp"
+
 
 func GetCount(str string) (count int) {
 	vowels := "aeiouAEIOU"
@@ -15,4 +17,12 @@ func GetCount(str string) (count int) {
 	}
 
 	return count
+}
+
+
+
+func GetCountOthersSolution(str string) (count int) {
+	r := regexp.MustCompile("[aeiou]")
+	vowels := r.FindAllString(str, -1)
+	return len(vowels)
 }
