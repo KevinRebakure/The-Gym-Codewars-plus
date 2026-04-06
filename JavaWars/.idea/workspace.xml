@@ -9,14 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e17270b-3096-42ac-a347-2d12e227da1a" name="Changes" comment="exercise: observer pattern (bad)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ultimate_design_patterns/behavioral/mediator/exercise/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ultimate_design_patterns/behavioral/mediator/exercise/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ultimate_design_patterns/behavioral/mediator/exercise/EventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ultimate_design_patterns/behavioral/mediator/exercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ultimate_design_patterns/behavioral/mediator/exercise/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ultimate_design_patterns/behavioral/mediator/exercise/UIControl.java" afterDir="false" />
+    <list default="true" id="0e17270b-3096-42ac-a347-2d12e227da1a" name="Changes" comment="exercise: mediator pattern (BAD)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/weekend_activityies.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,89 +54,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbbreviateaTwoWordName.executor": "Run",
-    "Application.AnagramDetection7kyu.executor": "Run",
-    "Application.ArrayListExercise.executor": "Run",
-    "Application.ArrayOfLongs.executor": "Run",
-    "Application.BasicMathematicalOperations8kyu.executor": "Run",
-    "Application.BusTour.executor": "Run",
-    "Application.CompressionAlgorithm.executor": "Run",
-    "Application.ConvertNumberToString8kyu.executor": "Run",
-    "Application.ConvertNumbersToDays.executor": "Run",
-    "Application.ConvertingAndPrintingDoubleValuesAsIntegers.executor": "Run",
-    "Application.CorrectGenericProgram.executor": "Run",
-    "Application.CountPasswords.executor": "Run",
-    "Application.CountValueOccurances.executor": "Run",
-    "Application.CountingSheep.executor": "Run",
-    "Application.DontGiveMeFive7kyu.executor": "Run",
-    "Application.DoubledCharacters.executor": "Run",
-    "Application.EvenOrOdd8kyu.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Factorial7kyu.executor": "Run",
-    "Application.FakeBinary8kyu.executor": "Run",
-    "Application.FindAllMondays.executor": "Debug",
-    "Application.FindCapitals7kyu.executor": "Run",
-    "Application.FindGreatestNumberInAFile.executor": "Run",
-    "Application.FindNeedle8kyu.executor": "Run",
-    "Application.FindTheMiddelElement7kyu.executor": "Run",
-    "Application.FindmaxByIterator.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.GrasshopperSummation8kyu.executor": "Run",
-    "Application.HarryPotterHouses.executor": "Run",
-    "Application.IntegerBarrier.executor": "Run",
-    "Application.LongestWordInSentence.executor": "Run",
-    "Application.LostWithoutaMap8kyu.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MortgageCalculator.executor": "Run",
-    "Application.ParseNiceIntFromCharProblem8kyu.executor": "Run",
-    "Application.PrintDatesWithAnOffset.executor": "Run",
-    "Application.PrintElementsOfaStream.executor": "Run",
-    "Application.RangeQuadraticSum.executor": "Run",
-    "Application.ReferenceType.executor": "Run",
-    "Application.RemoveAnchorFromURL.executor": "Run",
-    "Application.RemoveStringSpaces.executor": "Run",
-    "Application.ReturningStrings8kyu.executor": "Run",
-    "Application.ReverseLetter7kyu.executor": "Run",
-    "Application.SmallestIntegerInArray8kyu.executor": "Run",
-    "Application.SmashSentence.executor": "Run",
-    "Application.SortArrayByStringLength7kyu.executor": "Run",
-    "Application.SortingAbsoluteValues.executor": "Run",
-    "Application.SortingAndSkippingNumbers.executor": "Run",
-    "Application.SortingDigitsOfAnIntegerInAscendingOrder.executor": "Run",
-    "Application.SumOfDivisors.executor": "Run",
-    "Application.SumOfNumbersInAFile.executor": "Run",
-    "Application.SumWithoutHighestAndLowestNumber8kyu.executor": "Run",
-    "Application.TheFeastofManyBeasts8kyu.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/Users/TheGym/Documents/Codewars/JavaWars/src/main/java",
-    "last_opened_file_path": "C:/Users/TheGym/Documents/Codewars/JavaWars/src/main/java/com/ultimate_design_patterns/behavioral/mediator/exercise",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/TheGym/Documents/Codewars/JavaWars/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbbreviateaTwoWordName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnagramDetection7kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayOfLongs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicMathematicalOperations8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BusTour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompressionAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertNumberToString8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertNumbersToDays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertingAndPrintingDoubleValuesAsIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CorrectGenericProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountPasswords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountValueOccurances.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingSheep.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DontGiveMeFive7kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubledCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOrOdd8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial7kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FakeBinary8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAllMondays.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindCapitals7kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindGreatestNumberInAFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindNeedle8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheMiddelElement7kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindmaxByIterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GrasshopperSummation8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HarryPotterHouses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerBarrier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestWordInSentence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LostWithoutaMap8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MortgageCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParseNiceIntFromCharProblem8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintDatesWithAnOffset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintElementsOfaStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeQuadraticSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReferenceType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveAnchorFromURL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveStringSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReturningStrings8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLetter7kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestIntegerInArray8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmashSentence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArrayByStringLength7kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingAbsoluteValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingAndSkippingNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingDigitsOfAnIntegerInAscendingOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDivisors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNumbersInAFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumWithoutHighestAndLowestNumber8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TheFeastofManyBeasts8kyu.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/TheGym/Documents/Codewars/JavaWars/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TheGym/Documents/Codewars/JavaWars&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/TheGym/Documents/Codewars/JavaWars/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\TheGym\Documents\Codewars\JavaWars\src\main\java\com\ultimate_design_patterns\behavioral\mediator\exercise" />
@@ -180,7 +178,16 @@
       <workItem from="1762785452607" duration="3513000" />
       <workItem from="1762804564196" duration="3619000" />
       <workItem from="1762874705562" duration="4485000" />
-      <workItem from="1762891237143" duration="4775000" />
+      <workItem from="1762891237143" duration="5392000" />
+      <workItem from="1763022949911" duration="5220000" />
+      <workItem from="1763285193140" duration="29000" />
+      <workItem from="1763475697755" duration="823000" />
+      <workItem from="1763478670433" duration="253000" />
+      <workItem from="1763625715068" duration="9579000" />
+      <workItem from="1763649075193" duration="2000" />
+      <workItem from="1763649087952" duration="2149000" />
+      <workItem from="1763971722845" duration="5349000" />
+      <workItem from="1764585511564" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="8 kyu Even or Odd">
       <option name="closed" value="true" />
@@ -406,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762894874130</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="exercise: mediator pattern (BAD)">
+      <option name="closed" value="true" />
+      <created>1762897992311</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1762897992311</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8 kyu&#10;Convert a Number to a String!" />
     <MESSAGE value="8 kyu&#10;Find the smallest integer in the array" />
     <MESSAGE value="8 kyu&#10;Grasshopper - Summation" />
     <MESSAGE value="8 kyu&#10;Function 1 - hello world" />
@@ -449,7 +463,8 @@
     <MESSAGE value="exercise: command pattern" />
     <MESSAGE value="exercise: command pattern continue to work on it" />
     <MESSAGE value="exercise: observer pattern (bad)" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise: observer pattern (bad)" />
+    <MESSAGE value="exercise: mediator pattern (BAD)" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise: mediator pattern (BAD)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
